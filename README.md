@@ -3,8 +3,8 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/-Foundry-FFDB1C?logo=foundry&logoColor=black)
-[![Stars](https://img.shields.io/github/stars/0pFlow/solidity-practice-foundry?style=flat)](https://github.com/0pFlow/solidity-practice-foundry/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/0pFlow/solidity-practice-foundry)](https://github.com/0pFlow/solidity-practice-foundry/commits/main)
+[![Stars](https://img.shields.io/github/stars/0pStack/solidity-practice-foundry?style=flat)](https://github.com/0pStack/solidity-practice-foundry/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/0pStack/solidity-practice-foundry)](https://github.com/0pStack/solidity-practice-foundry/commits/main)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A collection of small Solidity smart contracts written while learning Ethereum development with the [Foundry](https://book.getfoundry.sh/) toolkit. Every contract is paired with a Forge test file in `test/` to demonstrate behavior, events, reverts, and access control.
@@ -39,7 +39,7 @@ All contracts live in `src/` and target Solidity `0.8.28` (Counter targets `^0.8
 Clone the repo and install the libraries declared in `lib/` (currently `forge-std`):
 
 ```shell
-git clone https://github.com/0pFlow/solidity-practice-foundry
+git clone https://github.com/0pStack/solidity-practice-foundry
 cd solidity-practice-foundry
 forge install
 ```
